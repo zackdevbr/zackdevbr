@@ -1,8 +1,10 @@
 ### 🚀 Hi there, I'm Isac! 🚀
-- Software Engineering Student focused on building scalable and impactful solutions.
-- Passionate about technology, artificial intelligence, software development and innovation.
-- Currently developing projects involving AI, smart systems and real-world problem solving.
-- Future-oriented: aiming to work in big tech companies and achieve financial and geographic freedom.
+- Software Engineering Student at FIAP | Backend Developer | Java & Python | Problem Solving  
+- Passionate about technology, artificial intelligence, software development and innovation.  
+- Focused on becoming a Full Stack or Backend Developer, building a strong foundation in logic, software development and problem solving.  
+- Interested in AI, Machine Learning, Data Science and Cloud Computing, aiming to specialize in these areas.  
+- Constantly evolving through consistent study, practical projects and continuous learning.  
+- Goal: build a solid tech career, work on impactful projects and contribute to innovative global solutions.  
 
 ## Languages and Tools 💻
 <div style="display: inline">
@@ -30,7 +32,7 @@
 
 ---
 
-🔥 Always building, always learning.
+🔥 Building a solid future with code, discipline and purpose.
 
 <!--
 ✨ Special repository for your GitHub profile README
