@@ -17,6 +17,7 @@
 ## GitHub Stats ⚡
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zackdevbr&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zackdevbr&theme=tokyonight"/>
 </div>
 
 ## Reach me 📫
