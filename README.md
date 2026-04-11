@@ -17,10 +17,7 @@
 
 ## GitHub Stats ⚡
 <div align="center">
-  <a href="https://github.com/zackdevbr">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zackdevbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zackdevbr&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=zackdevbr&theme=tokyonight"/>
 </div>
 
 ## Reach me 📫
