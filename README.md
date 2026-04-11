@@ -16,14 +16,11 @@
 </div><br/>
 
 ## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/SEU-USUARIO-AQUI">
-  <center>
+<div align="center">
+  <a href="https://github.com/zackdevbr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zackdevbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackdevbr&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackdevbr&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
 ## Reach me 📫
