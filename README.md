@@ -26,7 +26,7 @@
 
 ---
 
-🔥 Building a solid future with code, discipline and purpose.
+🔥 Building a solid future with code, discipline and purpose!
 
 <!--
 ✨ Special repository for your GitHub profile README
