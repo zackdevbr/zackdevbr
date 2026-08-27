@@ -3,15 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Full-Stack+Developer;Java+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Focado+em+AI%2C+Machine+Learning+e+Cloud" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F7CFF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Full-Stack+Developer;Java+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+SQL;Focused+on+AI%2C+Machine+Learning+and+Cloud" alt="Animated text" />
 </p>
 
 <p align="center">
-  Engenheiro de Software focado em Backend e Full-Stack, construindo uma base sólida em lógica, desenvolvimento de software e resolução de problemas.<br/>
   Software Engineer focused on Backend and Full-Stack development, building a strong foundation in logic, software development and problem solving.
 </p>
 
-<h2 align="center">Tecnologias | Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
@@ -25,7 +24,7 @@
   <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
 </p>
 
-<h2 align="center">Sobre mim | About me</h2>
+<h2 align="center">About me</h2>
 
 <p align="center">
   Focused on becoming a Full Stack or Backend Developer, building a strong foundation in logic, software development and problem solving.<br/>
@@ -34,35 +33,34 @@
   Goal: build a solid tech career, work on impactful projects and contribute to innovative global solutions.
 </p>
 
-<h2 align="center">Projetos acadêmicos em destaque | Featured Academic Projects</h2>
+<h2 align="center">Featured Academic Projects</h2>
 
 <p align="center">
-  Projetos desenvolvidos durante minha formação em Engenharia de Software.<br/>
   Projects developed during my Software Engineering studies.
 </p>
 
-- [**Projeto-Bilheteria**](https://github.com/zackdevbr/Projeto-Bilheteria) — Sistema de bilheteria com React, JavaScript e CSS / Ticketing system built with React, JavaScript and CSS.
-- [**MonitoramentoInteligenteDeAdega**](https://github.com/zackdevbr/MonitoramentoInteligenteDeAdega-VinheriaAgnello-CP2) — Monitoramento inteligente com Arduino, sensores (DHT11, LDR), RTC e display LCD I2C, programado em C / Smart monitoring system using Arduino, sensors (DHT11, LDR), RTC and I2C LCD display, programmed in C.
-- [**Projeto-LandingPage-GS**](https://github.com/NexusDev-Team/Projeto-LandingPage-GS) — Entrega bimestral integrando simulações computacionais, Edge Computing, sensores industriais, automação, análise de dados e modelagem matemática / Bimonthly deliverable integrating computational simulations, Edge Computing, industrial sensors, automation, data analysis and mathematical modeling.
+- [**Projeto-Bilheteria**](https://github.com/zackdevbr/Projeto-Bilheteria) — Ticketing system built with React, JavaScript and CSS.
+- [**MonitoramentoInteligenteDeAdega**](https://github.com/zackdevbr/MonitoramentoInteligenteDeAdega-VinheriaAgnello-CP2) — Smart monitoring system using Arduino, sensors (DHT11, LDR), RTC and I2C LCD display, programmed in C.
+- [**Projeto-LandingPage-GS**](https://github.com/NexusDev-Team/Projeto-LandingPage-GS) — Bimonthly deliverable integrating computational simulations, Edge Computing, industrial sensors, automation, data analysis and mathematical modeling.
 
 <p align="center">
-  <a href="https://github.com/zackdevbr">Ver todos os projetos acadêmicos →</a>
+  <a href="https://github.com/zackdevbr">View all academic projects →</a>
 </p>
 
-<h2 align="center">Projetos pessoais | Personal Projects</h2>
+<h2 align="center">Personal Projects</h2>
 
 <p align="center">
-  Projetos pessoais em desenvolvimento serão publicados aqui em breve.
+  Personal projects in development will be published here soon.
 </p>
 
-<h2 align="center">Estatísticas | Statistics</h2>
+<h2 align="center">Statistics</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zackdevbr&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zackdevbr&theme=tokyonight"/>
 </div>
 
-<h2 align="center">Contato | Reach me 📫</h2>
+<h2 align="center">Reach me 📫</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isac-oliveira-6a711a3a2/">
