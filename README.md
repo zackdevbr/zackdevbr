@@ -44,7 +44,7 @@
 - [**Projeto-LandingPage-GS**](https://github.com/NexusDev-Team/Projeto-LandingPage-GS) — Bimonthly deliverable integrating computational simulations, Edge Computing, industrial sensors, automation, data analysis and mathematical modeling.
 
 <p align="center">
-  <a href="https://github.com/zackdevbr">View all academic projects →</a>
+  <a href="https://github.com/FIAP-EngSoft-ZackDev">View all academic projects →</a>
 </p>
 
 <h2 align="center">Personal Projects</h2>
